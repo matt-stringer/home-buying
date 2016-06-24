@@ -1,0 +1,94 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "STATION": "NORTH BERKELEY", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.283347881478008, 37.874061195207709 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "DOWNTOWN BERKELEY", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.268249538332, 37.869689438708143 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "ASHBY", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.270118960831297, 37.853207379309829 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "ROCKRIDGE", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.251777383442359, 37.844509687847911 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "MACARTHUR", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.267120442281808, 37.828705048712521 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "19TH STREET\/OAKLAND", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.268386555248284, 37.80807541581008 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "WEST OAKLAND", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.294898766555761, 37.804580058089329 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "12TH ST\/OAKLAND CITY CENTER", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.271957751750151, 37.80259284222997 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "LAKE MERRITT", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.26554086357568, 37.797679218957107 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "FRUITVALE", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.224197060627304, 37.774559445422156 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "COLISEUM\/OAKLAND AIRPORT (OAK)", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.197180107919124, 37.753861122791349 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "SAN LEANDRO", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.161033533543105, 37.722191244992331 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "DUBLIN\/PLEASANTON", "OPERATOR": "Amtrak,BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -121.898490495521443, 37.702473039386931 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "BAY FAIR", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.127059860980182, 37.697566439299258 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "CASTRO VALLEY", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.076415724437268, 37.690715999161853 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "HAYWARD", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.087204122741824, 37.67012395781618 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "SOUTH HAYWARD", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.057037122395016, 37.634483081924948 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "UNION CITY", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -122.017151030434164, 37.590865110950482 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "FREMONT", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -121.977653481126978, 37.558433641217853 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "PITTSBURG\/BAY POINT", "OPERATOR": "BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -121.945739498459346, 38.018914161091672 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "NORTH CONCORD\/MARTINEZ", "OPERATOR": "BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -122.024619816862014, 38.003147064682167 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "CONCORD", "OPERATOR": "BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -122.029426325286451, 37.972413304208011 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "RICHMOND", "OPERATOR": "Amtrak,BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -122.352621812972572, 37.93680893924143 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "EL CERRITO DEL NORTE", "OPERATOR": "BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -122.316894574105675, 37.925183481655417 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "PLEASANT HILL\/CONTRA COSTA CEN", "OPERATOR": "BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -122.05601520306206, 37.92809806840247 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "EL CERRITO PLAZA", "OPERATOR": "BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -122.298911709225237, 37.902608645411078 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "WALNUT CREEK", "OPERATOR": "BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -122.067482029282502, 37.905044801566923 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "LAFAYETTE", "OPERATOR": "BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -122.125775420975259, 37.892884466045587 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "ORINDA", "OPERATOR": "BART", "DIST": 4, "CO": "CC" }, "geometry": { "type": "Point", "coordinates": [ -122.183555926687092, 37.879082782313368 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "EMBARCADERO", "OPERATOR": "BART", "DIST": 4, "CO": "SF" }, "geometry": { "type": "Point", "coordinates": [ -122.396033220569024, 37.793222202783973 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "MONTGOMERY STREET", "OPERATOR": "BART", "DIST": 4, "CO": "SF" }, "geometry": { "type": "Point", "coordinates": [ -122.401539836227798, 37.788886422849693 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "POWELL STREET", "OPERATOR": "BART", "DIST": 4, "CO": "SF" }, "geometry": { "type": "Point", "coordinates": [ -122.406823588776334, 37.784769661696131 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "CIVIC CENTER\/ UN PLAZA", "OPERATOR": "BART", "DIST": 4, "CO": "SF" }, "geometry": { "type": "Point", "coordinates": [ -122.414184530443535, 37.778964961038845 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "16TH STREET & MISSION", "OPERATOR": "BART", "DIST": 4, "CO": "SF" }, "geometry": { "type": "Point", "coordinates": [ -122.419456641788614, 37.764687211274122 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "24TH STREET & MISSION", "OPERATOR": "BART", "DIST": 4, "CO": "SF" }, "geometry": { "type": "Point", "coordinates": [ -122.418304517504978, 37.752784167431827 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "GLEN PARK", "OPERATOR": "BART", "DIST": 4, "CO": "SF" }, "geometry": { "type": "Point", "coordinates": [ -122.433959953809435, 37.733130537738212 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "BALBOA PARK", "OPERATOR": "BART", "DIST": 4, "CO": "SF" }, "geometry": { "type": "Point", "coordinates": [ -122.44712858691318, 37.721606552172091 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "DALY CITY", "OPERATOR": "BART", "DIST": 4, "CO": "SM" }, "geometry": { "type": "Point", "coordinates": [ -122.468666388475086, 37.706736851567399 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "COLMA", "OPERATOR": "BART", "DIST": 4, "CO": "SM" }, "geometry": { "type": "Point", "coordinates": [ -122.466201588307328, 37.68460941313014 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "SAN BRUNO", "OPERATOR": "BART", "DIST": 4, "CO": "SM" }, "geometry": { "type": "Point", "coordinates": [ -122.41562872525688, 37.637331031798048 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "SFO INTERNATIONAL AIRPORT", "OPERATOR": "BART", "DIST": 4, "CO": "SM" }, "geometry": { "type": "Point", "coordinates": [ -122.391078804644209, 37.616286498923181 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "MILLBRAE", "OPERATOR": "BART", "DIST": 4, "CO": "SM" }, "geometry": { "type": "Point", "coordinates": [ -122.386793925437217, 37.600335867077106 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "SOUTH SAN FRANCISCO", "OPERATOR": "BART", "DIST": 4, "CO": "SM" }, "geometry": { "type": "Point", "coordinates": [ -122.444049427212803, 37.664306066161778 ] } }
+,
+{ "type": "Feature", "properties": { "STATION": "WEST DUBLIN\/PLEASANTON", "OPERATOR": "BART", "DIST": 4, "CO": "ALA" }, "geometry": { "type": "Point", "coordinates": [ -121.927650259369102, 37.69987593278163 ] } }
+
+]
+}
